@@ -11,7 +11,7 @@ sys.path.append(os.curdir)
 from pelicanconf import *
 
 SITEURL = 'http://dblnunes.github.io/'
-RELATIVE_URLS = False
+RELATIVE_URLS = True
 
 SHOW_FEED = True
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
