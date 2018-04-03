@@ -19,8 +19,8 @@ AUTHOR_FEED_RSS = None
 
 
 # Set the article URL
-ARTICLE_URL = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
-ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
+#ARTICLE_URL = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
+#ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 
 DEFAULT_PAGINATION = 10
 
