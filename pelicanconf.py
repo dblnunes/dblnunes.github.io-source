@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Daniel Nunes'
-SITENAME = 'Daniel Nunes'
+SITENAME = 'DANIEL NUNES'
 SITESUBTITLE = u'Learning Data Science and Machine Learning'
 SITEURL = 'https://dblnunes.github.io'
 PATH = 'content'
